@@ -1,0 +1,7 @@
+br\edu\utfpr\td\tsi\etl\letterboxd\Main.class
+br\edu\utfpr\td\tsi\etl\letterboxd\servico\RaspadorHtml.class
+br\edu\utfpr\td\tsi\etl\letterboxd\modelo\Diretor.class
+br\edu\utfpr\td\tsi\etl\letterboxd\persistencia\FilmeDao.class
+br\edu\utfpr\td\tsi\etl\letterboxd\servico\Tradutor.class
+br\edu\utfpr\td\tsi\etl\letterboxd\modelo\Filme.class
+br\edu\utfpr\td\tsi\etl\letterboxd\servico\Navegador.class
