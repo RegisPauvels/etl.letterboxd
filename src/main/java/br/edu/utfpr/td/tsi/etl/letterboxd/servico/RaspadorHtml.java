@@ -48,7 +48,7 @@ public class RaspadorHtml extends Extrator<Filme>{
 				
 				Elements filmes = doc.select(".film-poster a");
 				
-			    for (int i = 0; i < 10; i++) {
+			    for (int i = 0; i < filmes.size(); i++) {
 			        Element filme = filmes.get(i);
 			        String link = filme.attr("abs:href");
 			        listaFilmes.add(rasparPaginaFilme(link, i));
