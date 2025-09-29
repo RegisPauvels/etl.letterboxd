@@ -37,7 +37,8 @@ Automatizar a coleta de informações de filmes e diretores a partir do **Letter
 
 ### 🔹 Transformação
 - **DeepL API** → Tradução das sinopses dos filmes para o português.  
-
+- Biblioteca Utilizada:
+  https://github.com/DeepLcom/deepl-java
 ---
 
 ### 🔹 Carga
